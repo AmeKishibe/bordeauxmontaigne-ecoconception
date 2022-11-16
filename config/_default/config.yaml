@@ -22,6 +22,11 @@ cookie_banner:
   blank: true
   page: https://gdpr.eu/cookies/
 
-$main-color: #202825 !default 
-$main-background-color: #F3FAF7 !default
-$body-color: $main-color !default
+$primary: #202825 !default
+$secondary: #666666 !default
+$black: #000000 !default
+$light: #f8f9fa !default
+
+$mainn-background-color: #202825 !default
+
+$body-background-color: $main-background-color !default
