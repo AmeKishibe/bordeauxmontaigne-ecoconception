@@ -18,13 +18,11 @@ params:
   cookie_banner:
     enable: false
 
-  cdnkey: https://osuny-1b4da.kxcdn.com
-  cookie_banner:
-  enable: true
-  blank: true
-  page: https://gdpr.eu/cookies/
-
 $primary: #202825 !default
 $secondary: #666666 !default
 $black: #000000 !default
 $light: #f8f9fa !default
+
+$body-color: $primary !default
+
+
