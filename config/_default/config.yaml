@@ -1,6 +1,5 @@
 theme: osuny-hugo-theme-aaa
 
-// TODO: ranger
 $primary: #202825 !default
 $secondary: #666666 !default
 $black: #000000 !default
