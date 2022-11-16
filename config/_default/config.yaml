@@ -18,11 +18,6 @@ params:
   cookie_banner:
     enable: false
 
-$primary: #202825 
-$secondary: #666666 
-$black: #000000 
-$light: #f8f9fa
 
-$body-color: $primary
-
-
+$main-color: #202825 !default 
+$main-background-color: #F3FAF7 !default
