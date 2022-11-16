@@ -5,6 +5,8 @@ $secondary: #666666 !default
 $black: #000000 !default
 $light: #f8f9fa !default
 
+$body-color: $primary !default
+
 ## LANGUAGE
 defaultContentLanguage: fr
 languageCode: fr
