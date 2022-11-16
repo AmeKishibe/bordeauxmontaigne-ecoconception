@@ -21,3 +21,4 @@ params:
 
 $main-color: #202825 !default 
 $main-background-color: #F3FAF7 !default
+$body-color: $main-color !default
