@@ -1,4 +1,4 @@
-
+theme: osuny-hugo-theme-aaa
 
 ## LANGUAGE
 defaultContentLanguage: fr
@@ -21,12 +21,3 @@ cookie_banner:
   enable: true
   blank: true
   page: https://gdpr.eu/cookies/
-
-$primary: #202825 !default
-$secondary: #666666 !default
-$black: #000000 !default
-$light: #f8f9fa !default
-
-$main-background-color: #202825 !default
-
-$body-background-color: $main-background-color !default
